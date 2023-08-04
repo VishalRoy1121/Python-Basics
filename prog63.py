@@ -1,0 +1,2 @@
+# factory -> wholesale -> retailer
+
